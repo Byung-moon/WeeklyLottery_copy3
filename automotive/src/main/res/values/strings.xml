@@ -5,4 +5,5 @@
     <string name="description_left_hand_button">Hello blank fragment</string>
     <string name="description_right_hand_button">Hello blank fragment</string>
     <string name="description_start_hand_button">Hello blank fragment</string>
+    <string name="button_description">명당 안내 버튼</string>
 </resources>
